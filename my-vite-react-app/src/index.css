@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: Rubik-Bold;
+  src: url(assets/fonts/Rubik-Bold.ttf);
+}
+
+@font-face {
+  font-family: Rubik-Light;
+  src: url(assets/fonts/Rubik-Light.ttf);
+}
+
+@font-face {
+  font-family: Rubik-Medium;
+  src: url(assets/fonts/Rubik-Medium.ttf);
+}
+
+@font-face {
+  font-family: Rubik-Regular;
+  src: url(assets/fonts/Rubik-Regular.ttf);
+}
+
+.bg-tracker{
+  background-image: url(assets/images/pattern-bg-desktop.png);
+}
+
